@@ -25,8 +25,8 @@
 
 <script setup>
 useSeoMeta({
-  title: "Fayaz Ahmed",
+  title: "Thomas Gwee",
   description:
-    "I'm Fayaz, your friendly neighborhood software, product engineer and designer from Bengaluru, India. I specialize in building web applications and sites using Javascript, React, Vue & Node.",
+    "I'm Thomas, your friendly neighborhood software, product engineer and designer from Bengaluru, India. I specialize in building web applications and sites using Javascript, React, Vue & Node.",
 });
 </script>
